@@ -1,5 +1,6 @@
 //(function(L) {
 
+// wire events
 $("#about-btn").click(function() {
   $("#aboutModal").modal("show");
   $(".navbar-collapse.in").collapse("hide");
@@ -27,8 +28,10 @@ $(document).one("ajaxStop", function () {
   $("#loading").hide();
 });
 
+// load map, layers and basemap
 
 var embassies = new L.LayerGroup();
+var world = new L.LayerGroup();
 var maxExtent = 0;
 
 $.getJSON('data/embassies.geojson', function(data) {
@@ -38,14 +41,28 @@ $.getJSON('data/embassies.geojson', function(data) {
     //     color: feature.properties.color
     //   };
     // },
-    onEachFeature: onEachFeature
+    onEachFeature: onEachEmbassyFeature
   });
   maxExtent = geojson.getBounds();
   map.fitBounds(maxExtent);
   geojson.addTo(embassies);
 });
 
-function onEachFeature(feature, layer) {
+$.getJSON('data/world.geojson', function(data) {
+  var geojson = L.geoJson(data, {
+    onEachFeature: onEachCountryFeature
+  });
+  geojson.addTo(world);
+});
+
+function onEachCountryFeature(feature, layer) {
+  // does this feature have a property named name?
+  if (feature.properties && feature.properties.name) {
+    layer.bindPopup(feature.properties.name);
+  }
+};
+
+function onEachEmbassyFeature(feature, layer) {
   // does this feature have a property named Pays?
   if (feature.properties && feature.properties.Pays) {
     layer.bindPopup(feature.properties.Pays + zoomlink(layer));
@@ -69,7 +86,7 @@ var gray = L.esri.basemapLayer('DarkGray'),
 var map = L.map('leaflet-map', {
   center: [45.19613, 5.76465],
   zoom: 4,
-  layers: [gray]
+  layers: [gray, world]
 });
 
 var baseLayers = {
@@ -79,7 +96,8 @@ var baseLayers = {
 };
 
 var overlays = {
-  'embassies': embassies
+  'french embassies': embassies,
+  'world countries' : world
 };
 
 L.control.layers(baseLayers, overlays, {
