@@ -1,0 +1,2469 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "AFGHANISTAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1795134544373,
+                    34.5292047471835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "AFRIQUE DU SUD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2259905338287,
+                    -25.7719143133527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ALBANIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8080088527786,
+                    41.3301808340464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ALGERIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03457617759705,
+                    36.7517109193979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ALLEMAGNE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3791397962951,
+                    52.5172987586219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ANCIENNE REPUBLIQUE YOUGOSLAVE DE MACEDOINE (ARYM)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4253115514816,
+                    41.9795346305725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ANDORRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.52517378330231,
+                    42.5091020917846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ANGOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.236358165741,
+                    -8.81631303727074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ANTIGUA-ET-BARBUDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.998036,
+                    14.020162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ARABIE SAOUDITE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.6282725334167,
+                    24.6846128086079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ARGENTINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.3825492858887,
+                    -34.5918307029807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ARMENIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.5066237449646,
+                    40.1740777856559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "AUSTRALIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.117607,
+                    -35.304603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "AUTRICHE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3744926,
+                    48.1987109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "AZERBAÏDJAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.8403143882751,
+                    40.370465497641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BAHREÏN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.5952806232788,
+                    26.2387523328954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BANGLADESH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4190790653229,
+                    23.7892668617444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BARBADE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5191665928955,
+                    10.6658509771677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BELGIQUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36808884736024,
+                    50.8468066138163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BENIN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.41360729518431,
+                    6.35273298140649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BIELORUSSIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5546497106552,
+                    53.9035132922464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BIRMANIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1424801865082,
+                    16.7902233712924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BOLIVIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1085972711639,
+                    -16.5263522815432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BOSNIE-HERZEGOVINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4157194444444,
+                    43.8607028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BOTSWANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9174542883607,
+                    -24.6597412227657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BRESIL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.873939,
+                    -15.805592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BRUNEI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.942783,
+                    4.887675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BULGARIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3409790111145,
+                    42.694930398983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BURKINA FASO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.510924,
+                    12.371967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "BURUNDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3699526786804,
+                    -3.3810418938604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CABO VERDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.51194,
+                    14.90722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CAMBODGE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.916064739227,
+                    11.5834863394041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CAMEROUN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.512263,
+                    3.850181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CANADA (QUEBEC COMPRIS)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6947358970978,
+                    45.443325286805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CHILI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6286892123031,
+                    -33.4359256107614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CHINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.468384,
+                    39.951625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CHYPRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.352842,
+                    35.158966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "COLOMBIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.047354,
+                    4.67429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "COMORES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.2467794418335,
+                    -11.7101069491992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CONGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2822613716125,
+                    -4.27503098737235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "COREE DU SUD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.965607899475,
+                    37.5612057340628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "COSTA RICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.04004,
+                    9.923164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CÔTE D'IVOIRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.01742875576019,
+                    5.32640440502037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CROATIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9774815468353,
+                    45.8094286555794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "CUBA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4199313938484,
+                    23.1246284682913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "DANEMARK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5871775423279,
+                    55.6810683912842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "DJIBOUTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.151249,
+                    11.607725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "EGYPTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.21668,
+                    30.023457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "EMIRATS ARABES UNIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.3676900863647,
+                    24.4561055418076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "EQUATEUR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.49471894841,
+                    -0.209016336887585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ERYTHREE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.93596,
+                    15.338132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ESPAGNE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.68999004364014,
+                    40.420631102027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ESTONIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.735800921917,
+                    59.4282871355292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ETATS-UNIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.078367,
+                    38.912629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ETHIOPIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7708538770676,
+                    9.05406150716346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "FINLANDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9604747,
+                    60.1568092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GABON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.44680452346802,
+                    0.383241895113878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GAMBIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.448353,
+                    14.687542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GEORGIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.811670387558,
+                    41.6705276557793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GHANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.189162,
+                    5.576713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GRÈCE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.737972,
+                    37.976308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GUATEMALA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.515544,
+                    14.584653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GUINEE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.715267,
+                    9.511741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GUINEE EQUATORIALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.771289,
+                    3.753237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GUINEE-BISSAO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.625952,
+                    11.863508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "GUYANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.1532885423279,
+                    5.82763589920547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "HAÏTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.334833,
+                    18.539136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "HONDURAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.191339631369,
+                    14.1017183777066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "HONGRIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.075704,
+                    47.514744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ILES COOK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7754,
+                    -41.290198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ILES FIDJI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.42481,
+                    -18.138154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ILES SALOMON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.150760889053,
+                    -9.47757725660367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "INDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.188546,
+                    28.595436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "INDONESIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.822684,
+                    -6.196992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "IRAK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.420865,
+                    33.308747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "IRAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.410793,
+                    35.697194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "IRLANDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.221277,
+                    53.320348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ISLANDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.946898,
+                    64.14803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ISRAËL/TERRITOIRES PALESTINIENS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.767796,
+                    32.081229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ITALIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4708635,
+                    41.8950723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "JAMAÏQUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7778468132019,
+                    18.0184463271972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "JAPON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.72654,
+                    35.648223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "JORDANIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.9041022625656,
+                    31.9537598339563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "KAZAKHSTAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.424446,
+                    51.147247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "KENYA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8178677558899,
+                    -1.28469727870845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "KIRGHIZSTAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.6029662883606,
+                    42.8672952762844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "KOSOVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.154377,
+                    42.669215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "KOWEÏT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9925528220901,
+                    29.3603200343958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "LAOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.613028,
+                    17.961506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "LESOTHO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2262734743234,
+                    -25.7723903967439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "LETTONIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.113193154335,
+                    56.9522504100269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "LIBAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.50816655159,
+                    33.878004961008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "LIBERIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.7834726572037,
+                    6.29245099455013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "LIBYE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1929492950439,
+                    32.8823082175931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "LITUANIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2873221039772,
+                    54.6809072637885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "LUXEMBOURG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12093156508172,
+                    49.6090503206532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MADAGASCAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.5227302312851,
+                    -18.9073776187872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MALAISIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.722390224606,
+                    3.16052041281183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MALAWI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3044987916946,
+                    -15.4200849351584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MALI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.99493551254272,
+                    12.6359204347969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MALTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.510064125061,
+                    35.8982109237989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MAROC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.84729337692261,
+                    34.0071973213632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MAURICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.5010394207627,
+                    -20.1664396141208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MAURITANIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9839540719986,
+                    18.0953422787554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MEXIQUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1995799541473,
+                    19.4281790074077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MOLDAVIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8267731666565,
+                    47.0164874833395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MONACO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.43390254676342,
+                    43.7490745814326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MONGOLIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.913709640503,
+                    47.916960430342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MONTENEGRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.274708032608,
+                    42.4445790353286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "MOZAMBIQUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.601842880249,
+                    -25.9604225005416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "NAMIBIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0846077846558,
+                    -22.5551136262957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "NEPAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3194487094879,
+                    27.7200520732659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "NICARAGUA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.286026,
+                    12.146971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "NIGER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.078116,
+                    13.524683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "NIGERIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.50682711601257,
+                    9.0799551398898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "NORVÈGE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7056769,
+                    59.9132354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "NOUVELLE-ZELANDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7754,
+                    -41.290198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "OMAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.426874,
+                    23.603947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "OUGANDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.576678,
+                    0.320061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "OUZBEKISTAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.286467,
+                    41.305005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "PAKISTAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.1061348306885,
+                    33.7167368556532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "PANAMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.532374,
+                    8.950267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "PAPOUASIE-NOUVELLE-GUINEE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.150760889053,
+                    -9.47757725660367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "PARAGUAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.6158612966537,
+                    -25.2862712218343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "PAYS-BAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.31618347672122,
+                    52.0829998513771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "PEROU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0318305492401,
+                    -12.0998102731407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "PHILIPPINES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02723484736,
+                    14.5608714199446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "POLOGNE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0272789,
+                    52.2237039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "PORTUGAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1566018,
+                    38.7072884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "QATAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.5366281865082,
+                    25.3299314477018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "REPUBLIQUE CENTRAFRICAINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.590508,
+                    4.363025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "REPUBLIQUE DEMOCRATIQUE DU CONGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.273254,
+                    -4.320709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "REPUBLIQUE DES PALAOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.02723484736,
+                    14.5608714199446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "REPUBLIQUE DOMINICAINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.882969,
+                    18.474394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "REPUBLIQUE TCHÈQUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4063104,
+                    50.0859249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ROUMANIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0946113085984,
+                    44.445036299878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ROYAUME-UNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.158287581723016,
+                    51.5024146378508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "RUSSIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.613823,
+                    55.732073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "RWANDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0667417962952,
+                    -1.94860861316024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SAINTE-LUCIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.998036,
+                    14.020162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SALVADOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2302103929291,
+                    13.7030928275614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SAMOA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7754,
+                    -41.290198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SENEGAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.427627,
+                    14.668372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SERBIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4526466269837,
+                    44.8190234769857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SEYCHELLES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4564158439637,
+                    -4.63007810019149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SIERRA LEONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.2709130635071,
+                    8.47167007972223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SINGAPOUR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.814122,
+                    1.322199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SLOVAQUIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.108711,
+                    48.143736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SLOVENIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5012559650818,
+                    46.0460283000118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SOMALIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8178677558899,
+                    -1.28469727870845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SOUDAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5468031187713,
+                    15.5807353678423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SOUDAN DU SUD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5865521414307,
+                    4.85463358841519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SRI LANKA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8724034059738,
+                    6.91456189198361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SUÈDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0792352,
+                    59.3388563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SUISSE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4664921,
+                    46.9470048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SURINAME"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.1532885423279,
+                    5.82763589920547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "SYRIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.285677,
+                    33.5253952000879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TADJIKISTAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.78088,
+                    38.614624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TANZANIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.278606,
+                    -6.789127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TCHAD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.030836,
+                    12.116254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "THAÏLANDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.497919,
+                    13.697892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TIMOR EST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.822684,
+                    -6.196992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TOGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.220886,
+                    6.121908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TONGA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.42481,
+                    -18.138154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TRINITE ET TOBAGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5191665928955,
+                    10.6658509771677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TUNISIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.179153,
+                    36.798942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TURKMENISTAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    58.3611368333333,
+                    37.953496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "TURQUIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.856791,
+                    39.902572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "UKRAINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.507938,
+                    50.453954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "URUGUAY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.198194,
+                    -34.903405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "VANUATU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    168.313581932541,
+                    -17.7371192825675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "VENEZUELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.8597531779099,
+                    10.483375384719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "VIETNAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.850586,
+                    21.020992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "YEMEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.200899,
+                    15.335625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ZAMBIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.304595,
+                    -15.420095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type" : "Embassy",
+                "Pays": "ZIMBABWE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.048617,
+                    -17.826134
+                ]
+            }
+        }
+    ]
+}
