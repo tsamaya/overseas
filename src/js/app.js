@@ -1,5 +1,35 @@
 //(function(L) {
+
+$("#about-btn").click(function() {
+  $("#aboutModal").modal("show");
+  $(".navbar-collapse.in").collapse("hide");
+  return false;
+});
+
+$("#full-extent-btn").click(function() {
+  map.fitBounds(maxExtent);
+  $(".navbar-collapse.in").collapse("hide");
+  return false;
+});
+
+$("#legend-btn").click(function() {
+  $("#legendModal").modal("show");
+  $(".navbar-collapse.in").collapse("hide");
+  return false;
+});
+
+$("#nav-btn").click(function() {
+  $(".navbar-collapse").collapse("toggle");
+  return false;
+});
+
+$(document).one("ajaxStop", function () {
+  $("#loading").hide();
+});
+
+
 var embassies = new L.LayerGroup();
+var maxExtent = 0;
 
 $.getJSON('data/embassies.geojson', function(data) {
   var geojson = L.geoJson(data, {
@@ -10,7 +40,8 @@ $.getJSON('data/embassies.geojson', function(data) {
     // },
     onEachFeature: onEachFeature
   });
-  map.fitBounds(geojson.getBounds());
+  maxExtent = geojson.getBounds();
+  map.fitBounds(maxExtent);
   geojson.addTo(embassies);
 });
 
@@ -55,5 +86,15 @@ L.control.layers(baseLayers, overlays, {
   collapsed: false
 }).addTo(map);
 
- L.control.navbar().addTo(map);
+
+// Leaflet patch to make layer control scrollable on touch browsers
+var container = $(".leaflet-control-layers")[0];
+if (!L.Browser.touch) {
+  L.DomEvent
+  .disableClickPropagation(container)
+  .disableScrollPropagation(container);
+} else {
+  L.DomEvent.disableClickPropagation(container);
+}
+
 //})(L);
