@@ -4,6 +4,7 @@ underconstruction
 # resources
 ## tools
 - csv2geojson http://mapbox.github.io/csv2geojson/
+- colorBrewer http://colorbrewer2.org/
 
 ## data
 - french embassises (geolocalisation-des-ambassades-de-france)[https://www.data.gouv.fr/fr/datasets/geolocalisation-des-ambassades-de-france/]
