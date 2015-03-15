@@ -8,8 +8,15 @@ $("#about-btn").click(function() {
 });
 
 $("#full-extent-btn").click(function() {
-  map.fitBounds(maxExtent);
+  //map.fitBounds(maxExtent);
+  map.fitWorld();
   $(".navbar-collapse.in").collapse("hide");
+  return false;
+});
+
+$("#full-extent-btn2").click(function() {
+  //map.fitBounds(maxExtent);
+  map.fitWorld();
   return false;
 });
 
@@ -50,23 +57,23 @@ $(document).on("click", ".feature-row", function(e) {
   sidebarClick(parseInt($(this).attr("id"), 10));
 });
 
-$(document).on("mouseover", ".feature-row", function(e) {
-  highlight.clearLayers().addLayer(L.circleMarker([$(this).attr("lat"), $(this).attr("lng")], highlightStyle));
-});
+// $(document).on("mouseover", ".feature-row", function(e) {
+//   var layer = countriesLayer.getLayer($(this).attr('id'));
+//   highlight.clearLayers().addLayer(L.multiPolygon(layer.feature.geometry.coordinates, highlightStyle));
+// });
 
 $(document).on("mouseout", ".feature-row", clearHighlight);
 
 function sizeLayerControl() {
   $(".leaflet-control-layers").css("max-height", $("#map").height() - 50);
-}
+};
 
 function clearHighlight() {
   highlight.clearLayers();
-}
+};
 
 function sidebarClick(id) {
   var layer = countriesLayer.getLayer(id);
-  //map.([layer.getLatLng().lat, layer.getLatLng().lng], 17);
   map.fitBounds(layer.getBounds());
   layer.fire("click");
   // Hide sidebar and go to the map on small screens 
@@ -74,7 +81,7 @@ function sidebarClick(id) {
     $("#sidebar").hide();
     map.invalidateSize();
   }
-}
+};
 
 var isCollapsed = false;
 
@@ -105,14 +112,14 @@ $("#featureModal").on("hidden.bs.modal", function(e) {
 
 var embassies = new L.LayerGroup();
 var world = new L.LayerGroup();
-var countriesLayer, maxExtent, featureList, countrySearch = [];
+var countriesLayer,  featureList, countrySearch = [];
 
 
 $.getJSON('data/embassies.geojson', function(data) {
   var geojson = L.geoJson(data, {
     onEachFeature: onEachEmbassyFeature
   });
-  maxExtent = geojson.getBounds();
+  //maxExtent = geojson.getBounds();
   //map.fitBounds(maxExtent);
   geojson.addTo(embassies);
 });
@@ -182,7 +189,7 @@ function highlightFeature(e) {
     var layer = e.target;
     layer.setStyle({
       weight: 5,
-      color: '#ccc',
+      color: '#999',
       dashArray: '',
       fillOpacity: 0.7
     });
@@ -237,17 +244,18 @@ map.on("moveend", function(e) {
 
 
 /* Clear feature highlight when map is clicked */
-map.on("click", function(e) {
-  //highlight.clearLayers();
-});
+// map.on("click", function(e) {
+//   highlight.clearLayers();
+// });
 
 /* Overlay Layers */
 var highlight = L.geoJson(null);
 var highlightStyle = {
-  stroke: false,
-  fillColor: "#00FFFF",
-  fillOpacity: 0.7,
-  radius: 10
+      weight: 5,
+  
+  fillColor: "#FF0000",
+  fillOpacity: 0.7
+  
 };
 
 // var groupedOverlays = {
@@ -269,7 +277,7 @@ function syncSidebar() {
   /* Loop through theaters layer and add only features which are in the map bounds */
   countriesLayer.eachLayer(function (layer) {
     if (map.hasLayer(countriesLayer)) {
-      if (map.getBounds().contains(layer.getBounds())) { 
+      if (map.getBounds().intersects(layer.getBounds())) { 
         $("#feature-list tbody").append(layerCountryFeatureListContent(layer));
       }
     }
