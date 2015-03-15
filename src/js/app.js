@@ -66,22 +66,22 @@ $(document).on("mouseout", ".feature-row", clearHighlight);
 
 function sizeLayerControl() {
   $(".leaflet-control-layers").css("max-height", $("#map").height() - 50);
-};
+}
 
 function clearHighlight() {
   highlight.clearLayers();
-};
+}
 
 function sidebarClick(id) {
   var layer = countriesLayer.getLayer(id);
   map.fitBounds(layer.getBounds());
   layer.fire("click");
-  // Hide sidebar and go to the map on small screens 
+  // Hide sidebar and go to the map on small screens
   if (document.body.clientWidth <= 767) {
     $("#sidebar").hide();
     map.invalidateSize();
   }
-};
+}
 
 var isCollapsed = false;
 
@@ -134,7 +134,7 @@ $.getJSON('data/world3.geojson', function(data) {
 
 function layerCountryFeatureListContent(layer) {
   return '<tr class="feature-row" id="' + L.stamp(layer) + '"><td style="vertical-align: middle;"><i class="fa fa-bar-chart"></i></td><td class="feature-name">' + layer.feature.properties.name + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>';
-};
+}
 
 function onEachCountryFeature(feature, layer) {
   // does this feature have a property named name?
@@ -155,24 +155,23 @@ function onEachCountryFeature(feature, layer) {
     geom: layer.feature.geometry
   });
 
-};
+}
 
 function onEachEmbassyFeature(feature, layer) {
   // does this feature have a property named Pays?
   if (feature.properties && feature.properties.Pays) {
     layer.bindPopup(feature.properties.Pays + zoomlink(layer));
   }
-};
+}
 
 function zoomlink(layer) {
   var ret = '<br /><br /><a href="#" onclick="zoomTo(' + layer._latlng.lat + ',' + layer._latlng.lng + ');">zoom</a>';
   return ret;
-};
+}
 
 function zoomTo(lat, lon) {
   map.setView(L.latLng(lat, lon), 10);
-};
-
+}
 
 function styleCountry(feature) {
   return {
@@ -182,7 +181,7 @@ function styleCountry(feature) {
     dashArray: '3',
     fillOpacity: 0.4,
   };
-};
+}
 
 function highlightFeature(e) {
   if (map._zoom < 8) {
@@ -199,16 +198,16 @@ function highlightFeature(e) {
     }
   }
   //info.update(layer.feature.properties);
-};
+}
 
 function resetHighlight(e) {
   countriesLayer.resetStyle(e.target);
   //info.update();
-};
+}
 
 function zoomToCountry(e) {
   map.fitBounds(e.target.getBounds());
-};
+}
 
 var gray = L.esri.basemapLayer('DarkGray');
 // ,
@@ -252,10 +251,10 @@ map.on("moveend", function(e) {
 var highlight = L.geoJson(null);
 var highlightStyle = {
       weight: 5,
-  
+
   fillColor: "#FF0000",
   fillOpacity: 0.7
-  
+
 };
 
 // var groupedOverlays = {
@@ -277,7 +276,7 @@ function syncSidebar() {
   /* Loop through theaters layer and add only features which are in the map bounds */
   countriesLayer.eachLayer(function (layer) {
     if (map.hasLayer(countriesLayer)) {
-      if (map.getBounds().intersects(layer.getBounds())) { 
+      if (map.getBounds().intersects(layer.getBounds())) {
         $("#feature-list tbody").append(layerCountryFeatureListContent(layer));
       }
     }
@@ -289,7 +288,7 @@ function syncSidebar() {
   featureList.sort("feature-name", {
     order: "asc"
   });
-};
+}
 
 $(document).one("ajaxStop", function() {
   $("#loading").hide();
