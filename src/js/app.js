@@ -8,15 +8,15 @@ $("#about-btn").click(function() {
 });
 
 $("#full-extent-btn").click(function() {
-  //map.fitBounds(maxExtent);
-  map.fitWorld();
+  map.fitBounds(maxExtent);
+  //map.fitWorld();
   $(".navbar-collapse.in").collapse("hide");
   return false;
 });
 
 $("#full-extent-btn2").click(function() {
-  //map.fitBounds(maxExtent);
-  map.fitWorld();
+  map.fitBounds(maxExtent);
+  //map.fitWorld();
   return false;
 });
 
@@ -112,14 +112,14 @@ $("#featureModal").on("hidden.bs.modal", function(e) {
 
 var embassies = new L.LayerGroup();
 var world = new L.LayerGroup();
-var countriesLayer,  featureList, countrySearch = [];
+var countriesLayer, maxExtent, featureList, countrySearch = [];
 
 
 $.getJSON('data/embassies.geojson', function(data) {
   var geojson = L.geoJson(data, {
     onEachFeature: onEachEmbassyFeature
   });
-  //maxExtent = geojson.getBounds();
+  maxExtent = geojson.getBounds();
   //map.fitBounds(maxExtent);
   geojson.addTo(embassies);
 });
