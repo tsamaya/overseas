@@ -2,10 +2,6 @@
 underconstruction
 
 # resources
-## tools
-- csv2geojson http://mapbox.github.io/csv2geojson/
-- colorBrewer http://colorbrewer2.org/
-
 ## data
 - french embassises [geolocalisation-des-ambassades-de-france](https://www.data.gouv.fr/fr/datasets/geolocalisation-des-ambassades-de-france/)
 - French abroad [francais-de-l-etranger](https://www.data.gouv.fr/fr/datasets/francais-de-l-etranger-inscriptions-au-registre-des-francais-etablis-hors-de-france-2001-2013/)
@@ -14,3 +10,8 @@ underconstruction
 - country-codes [country-codes.csv](https://github.com/datasets/country-codes/blob/master/data/country-codes.csv)
 - world [geojson](https://github.com/johan/world.geo.json)
 - world 2 [geojson](http://data.okfn.org/data/datasets/geo-boundaries-world-110m)
+
+## tools
+- csv2geojson http://mapbox.github.io/csv2geojson/
+- colorBrewer http://colorbrewer2.org/
+
